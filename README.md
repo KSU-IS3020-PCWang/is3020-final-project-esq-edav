@@ -2,10 +2,10 @@
 
 ## Student and Project Information
 
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
+- Student name: Jontia Davis
+- GitHub username: esq-edav
+- Project title: The Barn Track
+- Application purpose: To help horse owners and small barn managers log and keep track overall horse health needs. 
 
 ## How to Run the Application
 
